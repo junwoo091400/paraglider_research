@@ -5,9 +5,10 @@
 import pfh.glidersim as gsim
 import scipy.interpolate
 
+from mescal_6 import skywalk_mescal_6
 
 # Component models: use a pre-built wing and add a suitable harness
-wing = gsim.extras.wings.niviuk_hook3(size=23, verbose=False)
+wing = skywalk_mescal_6(size='XS', verbose=True)
 harness = gsim.paraglider_harness.Spherical(
     mass=75,
     z_riser=0.5,
@@ -38,6 +39,8 @@ sim_parameters = {
     "rho_air": 1.225,
     "v_W2e": (0, 0, 0),  # Uniform global wind velocity
 }
+
+input('Waiting for user input ...')
 
 # The state dynamics model provides the state derivatives
 model = gsim.simulator.ParagliderStateDynamics6a(paraglider, **sim_parameters)
