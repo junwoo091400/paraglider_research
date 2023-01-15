@@ -2,6 +2,8 @@
 
 I fly paragliders, and I always wanted to understand how it actually works/behaves. This repository is a culmination of my effort on trying to achieve that goal, mostly just shiit scripts that I test to get ideas.
 
+I also wrote a blog draft: ["What limits the speed of a paraglider?"](https://docs.google.com/document/d/16_mQykhOl_Byo5n9Ub4MSLfRB4Nm0SwpQYvuW35hPpI/edit?usp=sharing). Feel free to comment in the document to exchange ideas!
+
 ## References
 
 Bulk of the effort is on top of awesome resources I found online, such as:
