@@ -1,0 +1,2463 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:geotracker="http://ilyabogdanovich.com/gpx/extensions/geotracker" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" creator="Geo Tracker 5.1.5.2972 for Android by Ilya Bogdanovich">
+  <metadata>
+    <name>Trying ridge thermals - Sep 18, 2022 13:55:19</name>
+    <author>
+      <name>Recorded in Geo Tracker for Android from Ilya Bogdanovich</name>
+      <link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    </author>
+    <link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    <time>2022-09-18T11:55:19.771Z</time>
+  </metadata>
+  <trk>
+    <name>Trying ridge thermals - Sep 18, 2022 13:55:19</name>
+    <src>Recorded in Geo Tracker for Android from Ilya Bogdanovich</src>
+    <link href="https://play.google.com/store/apps/details?id=com.ilyabogdanovich.geotracker" />
+    <extensions>
+      <geotracker:meta>
+        <length>5125.02</length>
+        <duration>2095134</duration>
+        <creationtime>2022-09-18T11:55:19.771Z</creationtime>
+        <activity>0</activity>
+      </geotracker:meta>
+    </extensions>
+    <trkseg>
+      <trkpt lat="47.06294927" lon="8.45803853">
+        <ele>1038.2</ele>
+        <time>2003-02-02T11:55:19.499Z</time>
+        <extensions>
+          <geotracker:meta c="5.29" s="0.62" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0630048" lon="8.45802821">
+        <ele>1031.8</ele>
+        <time>2003-02-02T11:57:20Z</time>
+        <extensions>
+          <geotracker:meta s="0" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06304159" lon="8.45801616">
+        <ele>1030.6</ele>
+        <time>2003-02-02T11:59:21Z</time>
+        <extensions>
+          <geotracker:meta c="2.7" s="0.7" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06303492" lon="8.45801328">
+        <ele>1029.2</ele>
+        <time>2003-02-02T12:01:22Z</time>
+        <extensions>
+          <geotracker:meta c="2.7" s="0.05" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06307836" lon="8.45804226">
+        <ele>1028.5</ele>
+        <time>2003-02-02T12:03:23Z</time>
+        <extensions>
+          <geotracker:meta c="0.09" s="0.11" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06307921" lon="8.45797625">
+        <ele>1027.4</ele>
+        <time>2003-02-02T12:05:23.999Z</time>
+        <extensions>
+          <geotracker:meta c="6.13" s="0.01" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06309105" lon="8.45799139">
+        <ele>1028.3</ele>
+        <time>2003-02-02T12:07:24.999Z</time>
+        <extensions>
+          <geotracker:meta c="1.46" s="0.02" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06303642" lon="8.45794525">
+        <ele>1027.7</ele>
+        <time>2003-02-02T12:09:25.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.37" s="1.42" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0629492" lon="8.45787295">
+        <ele>1027.4</ele>
+        <time>2003-02-02T12:09:29.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.94" s="2.46" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06287908" lon="8.45776386">
+        <ele>1027.8</ele>
+        <time>2003-02-02T12:09:33.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.94" s="2.65" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06279071" lon="8.45767067">
+        <ele>1027.1</ele>
+        <time>2003-02-02T12:09:46.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.43" s="1.95" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06271477" lon="8.45758654">
+        <ele>1026.5</ele>
+        <time>2003-02-02T12:09:50.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.65" s="2.4" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06265674" lon="8.45745701">
+        <ele>1027</ele>
+        <time>2003-02-02T12:09:54.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.15" s="2.53" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06273776" lon="8.45739771">
+        <ele>1025.7</ele>
+        <time>2003-02-02T12:10:31.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.71" s="2.6" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06280658" lon="8.4575256">
+        <ele>1024.6</ele>
+        <time>2003-02-02T12:10:35.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.76" s="2.73" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06287586" lon="8.45765538">
+        <ele>1025</ele>
+        <time>2003-02-02T12:10:39.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.75" s="2.76" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06293838" lon="8.45775647">
+        <ele>1025.9</ele>
+        <time>2003-02-02T12:10:42.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.74" s="2.83" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06300136" lon="8.45785799">
+        <ele>1026.5</ele>
+        <time>2003-02-02T12:10:46.999Z</time>
+        <extensions>
+          <geotracker:meta c="1.2" s="2.74" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06308801" lon="8.457938">
+        <ele>1027.6</ele>
+        <time>2003-02-02T12:11:11.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.32" s="1.33" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06311868" lon="8.45794878">
+        <ele>1027.8</ele>
+        <time>2003-02-02T12:13:12.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.49" s="0.02" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06311244" lon="8.45792827">
+        <ele>1027.3</ele>
+        <time>2003-02-02T12:15:13.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.49" s="0.04" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06311313" lon="8.45791845">
+        <ele>1027.5</ele>
+        <time>2003-02-02T12:17:14.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.49" s="0.05" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06317241" lon="8.45778628">
+        <ele>1026.8</ele>
+        <time>2003-02-02T12:18:02.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.54" s="3.13" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06323927" lon="8.45767392">
+        <ele>1025.9</ele>
+        <time>2003-02-02T12:18:04.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.04" s="4.71" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06326758" lon="8.45750988">
+        <ele>1025.4</ele>
+        <time>2003-02-02T12:18:06.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.98" s="6.2" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06329619" lon="8.45733754">
+        <ele>1024</ele>
+        <time>2003-02-02T12:18:08.999Z</time>
+        <extensions>
+          <geotracker:meta c="5" s="6.64" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06332682" lon="8.45717805">
+        <ele>1024.3</ele>
+        <time>2003-02-02T12:18:10.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.91" s="6.28" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06333151" lon="8.45701996">
+        <ele>1024.2</ele>
+        <time>2003-02-02T12:18:12.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.76" s="6" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06335918" lon="8.45688489">
+        <ele>1021.6</ele>
+        <time>2003-02-02T12:18:14.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.09" s="5.52" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06339493" lon="8.45673074">
+        <ele>1019.1</ele>
+        <time>2003-02-02T12:18:16.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.97" s="6.65" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06340745" lon="8.4565669">
+        <ele>1018</ele>
+        <time>2003-02-02T12:18:18.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.85" s="5.98" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06342848" lon="8.45642497">
+        <ele>1016.6</ele>
+        <time>2003-02-02T12:18:20.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.01" s="5.89" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06345589" lon="8.45624623">
+        <ele>1015.3</ele>
+        <time>2003-02-02T12:18:22.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.86" s="7.22" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0634705" lon="8.45605398">
+        <ele>1015.2</ele>
+        <time>2003-02-02T12:18:24.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.85" s="7.6" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06346037" lon="8.45585075">
+        <ele>1015.5</ele>
+        <time>2003-02-02T12:18:26.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.48" s="8.05" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0633767" lon="8.45566835">
+        <ele>1014.4</ele>
+        <time>2003-02-02T12:18:28.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.08" s="8.36" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06331556" lon="8.45547214">
+        <ele>1012.9</ele>
+        <time>2003-02-02T12:18:30.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.45" s="8.43" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06323675" lon="8.455263">
+        <ele>1010.8</ele>
+        <time>2003-02-02T12:18:32.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.09" s="9.5" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06310866" lon="8.45510075">
+        <ele>1009.9</ele>
+        <time>2003-02-02T12:18:34.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.85" s="9.08" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06299553" lon="8.45494236">
+        <ele>1008.4</ele>
+        <time>2003-02-02T12:18:36.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.87" s="9.07" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06292161" lon="8.45486418">
+        <ele>1007.3</ele>
+        <time>2003-02-02T12:18:37.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.76" s="10.04" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0628397" lon="8.45479213">
+        <ele>1007.1</ele>
+        <time>2003-02-02T12:18:38.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.71" s="10.78" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06276246" lon="8.4547102">
+        <ele>1007.8</ele>
+        <time>2003-02-02T12:18:39.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.74" s="10.47" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06262432" lon="8.45456195">
+        <ele>1008.9</ele>
+        <time>2003-02-02T12:18:41.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.76" s="9.09" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06248073" lon="8.45443951">
+        <ele>1007.1</ele>
+        <time>2003-02-02T12:18:43.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.61" s="9.28" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06232219" lon="8.45432738">
+        <ele>1004.5</ele>
+        <time>2003-02-02T12:18:45.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.59" s="9.91" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06216736" lon="8.454231">
+        <ele>1003.1</ele>
+        <time>2003-02-02T12:18:47.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.53" s="9.11" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06201775" lon="8.45413304">
+        <ele>1002.2</ele>
+        <time>2003-02-02T12:18:49.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.59" s="9.23" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06188343" lon="8.4539818">
+        <ele>1001.4</ele>
+        <time>2003-02-02T12:18:51.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.85" s="9.61" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06173377" lon="8.45385616">
+        <ele>1001.6</ele>
+        <time>2003-02-02T12:18:53.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.53" s="9.75" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06158011" lon="8.45378389">
+        <ele>1001.3</ele>
+        <time>2003-02-02T12:18:55.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.52" s="8.61" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06144565" lon="8.45366005">
+        <ele>1001.6</ele>
+        <time>2003-02-02T12:18:57.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.66" s="9.03" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06129838" lon="8.45360767">
+        <ele>1002.3</ele>
+        <time>2003-02-02T12:18:59.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.27" s="7.65" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06117985" lon="8.45355256">
+        <ele>1002.1</ele>
+        <time>2003-02-02T12:19:01.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.6" s="6.58" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06104367" lon="8.45350101">
+        <ele>1003.1</ele>
+        <time>2003-02-02T12:19:03.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.28" s="8.51" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06089959" lon="8.45353098">
+        <ele>1006.1</ele>
+        <time>2003-02-02T12:19:05.999Z</time>
+        <extensions>
+          <geotracker:meta c="3" s="7.68" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06075405" lon="8.45349036">
+        <ele>1006</ele>
+        <time>2003-02-02T12:19:07.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.41" s="8.93" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06059359" lon="8.45342322">
+        <ele>1010.1</ele>
+        <time>2003-02-02T12:19:09.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.41" s="8.73" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06047592" lon="8.45333285">
+        <ele>1012.8</ele>
+        <time>2003-02-02T12:19:11.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.76" s="7.48" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06034871" lon="8.45321623">
+        <ele>1015.5</ele>
+        <time>2003-02-02T12:19:13.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.6" s="8.48" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06023714" lon="8.45318684">
+        <ele>1018.7</ele>
+        <time>2003-02-02T12:19:15.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.3" s="5.26" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.060152" lon="8.45313762">
+        <ele>1014.8</ele>
+        <time>2003-02-02T12:19:17.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.72" s="5.51" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06002855" lon="8.45301854">
+        <ele>1009.6</ele>
+        <time>2003-02-02T12:19:19.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.72" s="8.9" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.05994039" lon="8.45285172">
+        <ele>1008.3</ele>
+        <time>2003-02-02T12:19:21.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.18" s="7.88" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.05990946" lon="8.4526814">
+        <ele>1008</ele>
+        <time>2003-02-02T12:19:23.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.88" s="5.77" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06001176" lon="8.45256823">
+        <ele>1004.2</ele>
+        <time>2003-02-02T12:19:25.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.83" s="7.88" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06018107" lon="8.45254762">
+        <ele>1002.4</ele>
+        <time>2003-02-02T12:19:27.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.21" s="10.71" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06027975" lon="8.45258295">
+        <ele>1003</ele>
+        <time>2003-02-02T12:19:28.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.3" s="10.21" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06037022" lon="8.45262807">
+        <ele>1002.5</ele>
+        <time>2003-02-02T12:19:29.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.17" s="9.36" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0605172" lon="8.45268324">
+        <ele>999.8</ele>
+        <time>2003-02-02T12:19:31.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.3" s="8.95" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0606029" lon="8.45274854">
+        <ele>997.8</ele>
+        <time>2003-02-02T12:19:32.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.44" s="10.38" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06069004" lon="8.4528116">
+        <ele>996.6</ele>
+        <time>2003-02-02T12:19:33.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.45" s="11.02" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06077383" lon="8.45287149">
+        <ele>997.1</ele>
+        <time>2003-02-02T12:19:34.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.3" s="9.94" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06092907" lon="8.45293344">
+        <ele>996.1</ele>
+        <time>2003-02-02T12:19:36.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.31" s="8.85" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06109365" lon="8.45304825">
+        <ele>993.7</ele>
+        <time>2003-02-02T12:19:38.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.46" s="10.48" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06118145" lon="8.45310602">
+        <ele>993</ele>
+        <time>2003-02-02T12:19:39.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.42" s="10.47" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06126529" lon="8.45315891">
+        <ele>993.2</ele>
+        <time>2003-02-02T12:19:40.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.41" s="9.65" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06141594" lon="8.45328659">
+        <ele>994.7</ele>
+        <time>2003-02-02T12:19:42.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.57" s="9.91" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0614881" lon="8.45337031">
+        <ele>994.7</ele>
+        <time>2003-02-02T12:19:43.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.67" s="10.13" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06162183" lon="8.45353262">
+        <ele>995.1</ele>
+        <time>2003-02-02T12:19:45.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.68" s="9.3" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06176035" lon="8.45365991">
+        <ele>994.3</ele>
+        <time>2003-02-02T12:19:47.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.56" s="9.08" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0618961" lon="8.45383065">
+        <ele>993.9</ele>
+        <time>2003-02-02T12:19:49.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.86" s="10.22" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06202509" lon="8.45398787">
+        <ele>993.6</ele>
+        <time>2003-02-02T12:19:51.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.54" s="9.08" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06218139" lon="8.45409625">
+        <ele>993</ele>
+        <time>2003-02-02T12:19:53.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.5" s="9.83" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06225485" lon="8.45417444">
+        <ele>993.5</ele>
+        <time>2003-02-02T12:19:54.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.63" s="9.95" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06237795" lon="8.45431803">
+        <ele>994.2</ele>
+        <time>2003-02-02T12:19:56.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.65" s="8.22" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06249062" lon="8.45445368">
+        <ele>992.7</ele>
+        <time>2003-02-02T12:19:58.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.74" s="8.47" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06262818" lon="8.45463199">
+        <ele>990.8</ele>
+        <time>2003-02-02T12:20:00.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.67" s="10.33" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0627777" lon="8.45473825">
+        <ele>990</ele>
+        <time>2003-02-02T12:20:02.999Z</time>
+        <extensions>
+          <geotracker:meta c="6.06" s="8.79" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06289108" lon="8.45462002">
+        <ele>988.5</ele>
+        <time>2003-02-02T12:20:04.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.83" s="8.1" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06286537" lon="8.45441091">
+        <ele>987</ele>
+        <time>2003-02-02T12:20:06.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.97" s="7.23" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06274797" lon="8.45425285">
+        <ele>985.2</ele>
+        <time>2003-02-02T12:20:08.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.77" s="8.11" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06266475" lon="8.45411487">
+        <ele>983.5</ele>
+        <time>2003-02-02T12:20:10.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.1" s="6.12" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06255453" lon="8.45397615">
+        <ele>980.7</ele>
+        <time>2003-02-02T12:20:12.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.73" s="8.13" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06241423" lon="8.45386651">
+        <ele>979</ele>
+        <time>2003-02-02T12:20:14.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.64" s="8.76" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06230445" lon="8.45371972">
+        <ele>977.2</ele>
+        <time>2003-02-02T12:20:16.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.94" s="7.81" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06218765" lon="8.45359118">
+        <ele>974.5</ele>
+        <time>2003-02-02T12:20:18.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.72" s="8.37" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06206067" lon="8.4534571">
+        <ele>975.1</ele>
+        <time>2003-02-02T12:20:20.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.83" s="8.45" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06197001" lon="8.45329975">
+        <ele>977.7</ele>
+        <time>2003-02-02T12:20:22.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.05" s="7.47" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06190437" lon="8.4531333">
+        <ele>979.5</ele>
+        <time>2003-02-02T12:20:24.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.32" s="7.11" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06187975" lon="8.45296263">
+        <ele>979.3</ele>
+        <time>2003-02-02T12:20:26.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.99" s="6.2" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06195529" lon="8.452842">
+        <ele>975.2</ele>
+        <time>2003-02-02T12:20:28.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.49" s="6.67" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06204484" lon="8.45268201">
+        <ele>974.8</ele>
+        <time>2003-02-02T12:20:30.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.98" s="8.68" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06204163" lon="8.45245005">
+        <ele>972.8</ele>
+        <time>2003-02-02T12:20:32.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.25" s="8.47" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06194287" lon="8.45229137">
+        <ele>967.9</ele>
+        <time>2003-02-02T12:20:34.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.85" s="7.33" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06181859" lon="8.45212438">
+        <ele>961.1</ele>
+        <time>2003-02-02T12:20:36.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.85" s="9.02" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06168579" lon="8.45200245">
+        <ele>958.4</ele>
+        <time>2003-02-02T12:20:38.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.7" s="8.02" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0615789" lon="8.45188986">
+        <ele>955.2</ele>
+        <time>2003-02-02T12:20:40.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.79" s="6.84" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06147117" lon="8.45176671">
+        <ele>951.4</ele>
+        <time>2003-02-02T12:20:42.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.81" s="7.79" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06136351" lon="8.45164842">
+        <ele>948.6</ele>
+        <time>2003-02-02T12:20:44.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.77" s="7.24" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06126636" lon="8.45151553">
+        <ele>945</ele>
+        <time>2003-02-02T12:20:46.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.96" s="7.42" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06123269" lon="8.45132265">
+        <ele>940.6</ele>
+        <time>2003-02-02T12:20:48.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.67" s="7.91" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06130977" lon="8.45111589">
+        <ele>936</ele>
+        <time>2003-02-02T12:20:50.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.37" s="9.16" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06139679" lon="8.4509759">
+        <ele>933.9</ele>
+        <time>2003-02-02T12:20:52.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.43" s="6.63" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06146593" lon="8.45084277">
+        <ele>931.2</ele>
+        <time>2003-02-02T12:20:54.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.45" s="6.48" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06158255" lon="8.45073226">
+        <ele>927.7</ele>
+        <time>2003-02-02T12:20:56.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.77" s="7.71" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06168595" lon="8.45065072">
+        <ele>923.7</ele>
+        <time>2003-02-02T12:20:58.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.79" s="6.08" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06181624" lon="8.45058032">
+        <ele>918</ele>
+        <time>2003-02-02T12:21:00.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.96" s="8.9" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06190691" lon="8.45054401">
+        <ele>915.8</ele>
+        <time>2003-02-02T12:21:01.999Z</time>
+        <extensions>
+          <geotracker:meta c="6.01" s="10.51" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06199627" lon="8.45051158">
+        <ele>915.9</ele>
+        <time>2003-02-02T12:21:02.999Z</time>
+        <extensions>
+          <geotracker:meta c="6.04" s="10.05" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06214243" lon="8.45047955">
+        <ele>916.3</ele>
+        <time>2003-02-02T12:21:04.999Z</time>
+        <extensions>
+          <geotracker:meta c="6.24" s="7.34" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06227764" lon="8.45052873">
+        <ele>912.6</ele>
+        <time>2003-02-02T12:21:06.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.29" s="8.19" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0624309" lon="8.45058803">
+        <ele>909.8</ele>
+        <time>2003-02-02T12:21:08.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.26" s="9.06" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06257028" lon="8.45068005">
+        <ele>907.6</ele>
+        <time>2003-02-02T12:21:10.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.49" s="8.46" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06269912" lon="8.45080156">
+        <ele>905.9</ele>
+        <time>2003-02-02T12:21:12.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.54" s="8.82" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06285593" lon="8.45091457">
+        <ele>904.2</ele>
+        <time>2003-02-02T12:21:14.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.44" s="9.77" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0629951" lon="8.45105888">
+        <ele>903.7</ele>
+        <time>2003-02-02T12:21:16.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.67" s="9.67" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06314202" lon="8.4511994">
+        <ele>902.5</ele>
+        <time>2003-02-02T12:21:18.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.5" s="9.92" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06322781" lon="8.45125068">
+        <ele>901.7</ele>
+        <time>2003-02-02T12:21:19.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.39" s="10.16" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06331122" lon="8.45130704">
+        <ele>901.6</ele>
+        <time>2003-02-02T12:21:20.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.43" s="10.2" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06345155" lon="8.4514528">
+        <ele>900.6</ele>
+        <time>2003-02-02T12:21:22.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.68" s="9.1" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06358998" lon="8.45158913">
+        <ele>897.5</ele>
+        <time>2003-02-02T12:21:24.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.58" s="9.67" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06366883" lon="8.45166369">
+        <ele>895.9</ele>
+        <time>2003-02-02T12:21:25.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.57" s="10.53" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06375053" lon="8.45174353">
+        <ele>895.1</ele>
+        <time>2003-02-02T12:21:26.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.6" s="10.82" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06383199" lon="8.45181468">
+        <ele>894.5</ele>
+        <time>2003-02-02T12:21:27.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.54" s="10.31" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06399372" lon="8.4518797">
+        <ele>893.2</ele>
+        <time>2003-02-02T12:21:29.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.13" s="9.38" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06412892" lon="8.45179992">
+        <ele>892.4</ele>
+        <time>2003-02-02T12:21:31.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.65" s="7.96" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06420961" lon="8.45163756">
+        <ele>893.6</ele>
+        <time>2003-02-02T12:21:33.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.97" s="6.74" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06423466" lon="8.45150227">
+        <ele>893</ele>
+        <time>2003-02-02T12:21:35.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.4" s="4.36" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06429025" lon="8.45136456">
+        <ele>893.7</ele>
+        <time>2003-02-02T12:21:37.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.21" s="6.34" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06434532" lon="8.45119277">
+        <ele>894.9</ele>
+        <time>2003-02-02T12:21:39.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.14" s="7.34" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0644187" lon="8.45106777">
+        <ele>895.6</ele>
+        <time>2003-02-02T12:21:41.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.88" s="6.12" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06455541" lon="8.45108377">
+        <ele>893.9</ele>
+        <time>2003-02-02T12:21:44.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.12" s="6.01" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06470096" lon="8.45109103">
+        <ele>891.4</ele>
+        <time>2003-02-02T12:21:46.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.02" s="8.57" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06482422" lon="8.45104357">
+        <ele>893.3</ele>
+        <time>2003-02-02T12:21:48.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.78" s="6.07" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06488434" lon="8.45092978">
+        <ele>892.4</ele>
+        <time>2003-02-02T12:21:50.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.32" s="5.13" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06498218" lon="8.45082389">
+        <ele>889.4</ele>
+        <time>2003-02-02T12:21:52.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.88" s="8.29" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06513214" lon="8.45076151">
+        <ele>888.6</ele>
+        <time>2003-02-02T12:21:54.999Z</time>
+        <extensions>
+          <geotracker:meta c="6.01" s="7.85" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06523919" lon="8.45071161">
+        <ele>887</ele>
+        <time>2003-02-02T12:21:56.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.92" s="6.54" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06537054" lon="8.45062168">
+        <ele>882.8</ele>
+        <time>2003-02-02T12:21:58.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.82" s="8.79" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06548394" lon="8.45050677">
+        <ele>884.1</ele>
+        <time>2003-02-02T12:22:00.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.62" s="7.43" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06556605" lon="8.45041632">
+        <ele>886.1</ele>
+        <time>2003-02-02T12:22:02.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.74" s="5.38" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06567213" lon="8.45036999">
+        <ele>884.8</ele>
+        <time>2003-02-02T12:22:04.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.96" s="6.42" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06580341" lon="8.45028597">
+        <ele>884</ele>
+        <time>2003-02-02T12:22:06.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.83" s="8.28" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06593045" lon="8.45020955">
+        <ele>886.3</ele>
+        <time>2003-02-02T12:22:08.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.93" s="7.18" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06604886" lon="8.45014715">
+        <ele>887.8</ele>
+        <time>2003-02-02T12:22:10.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.9" s="7.1" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06616858" lon="8.4500568">
+        <ele>888.7</ele>
+        <time>2003-02-02T12:22:12.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.77" s="7.47" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06626608" lon="8.44992531">
+        <ele>890.4</ele>
+        <time>2003-02-02T12:22:14.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.43" s="7.28" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0663244" lon="8.44975448">
+        <ele>891.1</ele>
+        <time>2003-02-02T12:22:16.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.86" s="7.58" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06632777" lon="8.44955433">
+        <ele>891.8</ele>
+        <time>2003-02-02T12:22:18.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.41" s="8.19" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06625812" lon="8.44933648">
+        <ele>895.2</ele>
+        <time>2003-02-02T12:22:20.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.27" s="9.48" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06616637" lon="8.44914491">
+        <ele>897.7</ele>
+        <time>2003-02-02T12:22:22.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.03" s="8.33" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0660653" lon="8.44900363">
+        <ele>901.8</ele>
+        <time>2003-02-02T12:22:24.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.93" s="7.67" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06595779" lon="8.44887755">
+        <ele>902.7</ele>
+        <time>2003-02-02T12:22:26.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.69" s="7.53" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06579848" lon="8.4487759">
+        <ele>900.9</ele>
+        <time>2003-02-02T12:22:28.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.56" s="10.23" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06570962" lon="8.44871521">
+        <ele>900.8</ele>
+        <time>2003-02-02T12:22:29.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.61" s="10.85" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06562577" lon="8.44865148">
+        <ele>901.5</ele>
+        <time>2003-02-02T12:22:30.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.71" s="9.85" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06548612" lon="8.44851861">
+        <ele>902.8</ele>
+        <time>2003-02-02T12:22:32.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.7" s="9.42" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06540316" lon="8.44845205">
+        <ele>902.3</ele>
+        <time>2003-02-02T12:22:33.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.64" s="10.23" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0653194" lon="8.44838208">
+        <ele>902.9</ele>
+        <time>2003-02-02T12:22:34.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.66" s="10.88" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06524172" lon="8.44828806">
+        <ele>904.7</ele>
+        <time>2003-02-02T12:22:35.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.83" s="11.33" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06518211" lon="8.44818575">
+        <ele>907.4</ele>
+        <time>2003-02-02T12:22:36.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.01" s="9.99" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06508913" lon="8.44801207">
+        <ele>907.6</ele>
+        <time>2003-02-02T12:22:38.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.12" s="6.91" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06501687" lon="8.44785861">
+        <ele>908.4</ele>
+        <time>2003-02-02T12:22:40.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.14" s="7.85" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06496036" lon="8.44764839">
+        <ele>908.7</ele>
+        <time>2003-02-02T12:22:42.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.31" s="8.96" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06487058" lon="8.44747817">
+        <ele>909.7</ele>
+        <time>2003-02-02T12:22:44.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.92" s="8.21" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06475334" lon="8.44732879">
+        <ele>908.5</ele>
+        <time>2003-02-02T12:22:46.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.86" s="8.98" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06463037" lon="8.44716549">
+        <ele>908.4</ele>
+        <time>2003-02-02T12:22:48.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.85" s="9.01" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06451032" lon="8.44705623">
+        <ele>908.6</ele>
+        <time>2003-02-02T12:22:50.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.68" s="7.75" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0643989" lon="8.44693435">
+        <ele>908.1</ele>
+        <time>2003-02-02T12:22:52.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.79" s="8.08" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0642762" lon="8.44683152">
+        <ele>908.7</ele>
+        <time>2003-02-02T12:22:54.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.6" s="7.87" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0641411" lon="8.44675959">
+        <ele>909.8</ele>
+        <time>2003-02-02T12:22:56.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.49" s="8.17" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06400273" lon="8.44666536">
+        <ele>911.4</ele>
+        <time>2003-02-02T12:22:58.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.6" s="8.41" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06386445" lon="8.44658183">
+        <ele>911.3</ele>
+        <time>2003-02-02T12:23:00.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.34" s="8.31" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06370164" lon="8.44653164">
+        <ele>910.5</ele>
+        <time>2003-02-02T12:23:02.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.4" s="10.11" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06361597" lon="8.4464727">
+        <ele>911</ele>
+        <time>2003-02-02T12:23:03.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.59" s="10.39" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06348967" lon="8.44632424">
+        <ele>912.2</ele>
+        <time>2003-02-02T12:23:05.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.78" s="8.38" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06335967" lon="8.44621097">
+        <ele>910.9</ele>
+        <time>2003-02-02T12:23:07.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.69" s="8.87" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06324742" lon="8.44603686">
+        <ele>908.6</ele>
+        <time>2003-02-02T12:23:09.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.1" s="9.26" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06319114" lon="8.44582205">
+        <ele>909</ele>
+        <time>2003-02-02T12:23:11.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.39" s="8.38" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06319748" lon="8.44562381">
+        <ele>907.3</ele>
+        <time>2003-02-02T12:23:13.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.95" s="7.9" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0632935" lon="8.44541488">
+        <ele>905.2</ele>
+        <time>2003-02-02T12:23:15.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.43" s="10.12" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06341638" lon="8.44527584">
+        <ele>908.4</ele>
+        <time>2003-02-02T12:23:17.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.65" s="8.05" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06351092" lon="8.44515022">
+        <ele>909.6</ele>
+        <time>2003-02-02T12:23:19.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.51" s="7.19" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06362408" lon="8.44502447">
+        <ele>909.3</ele>
+        <time>2003-02-02T12:23:21.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.67" s="8.13" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06375144" lon="8.44491353">
+        <ele>909.2</ele>
+        <time>2003-02-02T12:23:23.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.77" s="8.2" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06388136" lon="8.44482521">
+        <ele>908.9</ele>
+        <time>2003-02-02T12:23:25.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.87" s="7.79" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06400146" lon="8.44474281">
+        <ele>907.8</ele>
+        <time>2003-02-02T12:23:27.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.83" s="7.36" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06412809" lon="8.44465248">
+        <ele>906.3</ele>
+        <time>2003-02-02T12:23:29.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.84" s="7.98" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06426455" lon="8.44456612">
+        <ele>904.2</ele>
+        <time>2003-02-02T12:23:31.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.86" s="8.36" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06439573" lon="8.44444496">
+        <ele>901</ele>
+        <time>2003-02-02T12:23:33.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.65" s="8.65" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06449656" lon="8.44427741">
+        <ele>897.1</ele>
+        <time>2003-02-02T12:23:35.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.35" s="8.49" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06454651" lon="8.44406305">
+        <ele>893.4</ele>
+        <time>2003-02-02T12:23:37.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.95" s="8.61" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06456079" lon="8.44385074">
+        <ele>890.6</ele>
+        <time>2003-02-02T12:23:39.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.69" s="7.5" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06455094" lon="8.44367543">
+        <ele>883.5</ele>
+        <time>2003-02-02T12:23:41.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.65" s="6.85" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06453339" lon="8.44345299">
+        <ele>878</ele>
+        <time>2003-02-02T12:23:43.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.59" s="9.05" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06447675" lon="8.44323931">
+        <ele>872.3</ele>
+        <time>2003-02-02T12:23:45.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.25" s="8.49" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06437909" lon="8.44305167">
+        <ele>865.4</ele>
+        <time>2003-02-02T12:23:47.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.05" s="9.19" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06418042" lon="8.44274753">
+        <ele>859.8</ele>
+        <time>2003-02-02T12:23:50.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.91" s="11.19" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06404495" lon="8.44253857">
+        <ele>859.5</ele>
+        <time>2003-02-02T12:23:52.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.02" s="10.31" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0639823" lon="8.4423406">
+        <ele>858.4</ele>
+        <time>2003-02-02T12:23:54.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.62" s="7.6" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06404875" lon="8.44216435">
+        <ele>854.6</ele>
+        <time>2003-02-02T12:23:56.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.36" s="7.88" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06416191" lon="8.4420304">
+        <ele>852.6</ele>
+        <time>2003-02-02T12:23:58.999Z</time>
+        <extensions>
+          <geotracker:meta c="6.02" s="7.7" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06430853" lon="8.44202982">
+        <ele>850.9</ele>
+        <time>2003-02-02T12:24:00.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.55" s="8.51" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0644053" lon="8.44218131">
+        <ele>848.5</ele>
+        <time>2003-02-02T12:24:02.999Z</time>
+        <extensions>
+          <geotracker:meta c="1.29" s="6.92" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06440027" lon="8.44241033">
+        <ele>845.3</ele>
+        <time>2003-02-02T12:24:04.999Z</time>
+        <extensions>
+          <geotracker:meta c="1.95" s="8.58" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06429218" lon="8.44260866">
+        <ele>843.4</ele>
+        <time>2003-02-02T12:24:06.999Z</time>
+        <extensions>
+          <geotracker:meta c="2.95" s="10.64" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06418262" lon="8.44264106">
+        <ele>842.4</ele>
+        <time>2003-02-02T12:24:07.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.25" s="11.24" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06408638" lon="8.44258708">
+        <ele>840.3</ele>
+        <time>2003-02-02T12:24:08.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.47" s="10.99" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06400908" lon="8.44250139">
+        <ele>838.1</ele>
+        <time>2003-02-02T12:24:09.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.77" s="10.74" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06395212" lon="8.44238623">
+        <ele>836.7</ele>
+        <time>2003-02-02T12:24:10.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.05" s="10.34" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06391296" lon="8.44226625">
+        <ele>835.7</ele>
+        <time>2003-02-02T12:24:11.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.24" s="9.81" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.063876" lon="8.44203335">
+        <ele>833</ele>
+        <time>2003-02-02T12:24:13.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.6" s="8.8" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06390599" lon="8.44178647">
+        <ele>830.3</ele>
+        <time>2003-02-02T12:24:15.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.26" s="9.75" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06401891" lon="8.44159389">
+        <ele>829.1</ele>
+        <time>2003-02-02T12:24:17.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.78" s="9.57" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06416109" lon="8.44155463">
+        <ele>825.8</ele>
+        <time>2003-02-02T12:24:19.999Z</time>
+        <extensions>
+          <geotracker:meta c="6.19" s="8.36" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06432254" lon="8.44151345">
+        <ele>823.2</ele>
+        <time>2003-02-02T12:24:21.999Z</time>
+        <extensions>
+          <geotracker:meta c="6" s="9.34" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06447658" lon="8.44147356">
+        <ele>820.4</ele>
+        <time>2003-02-02T12:24:23.999Z</time>
+        <extensions>
+          <geotracker:meta c="6.13" s="8.6" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0646205" lon="8.44142807">
+        <ele>814.3</ele>
+        <time>2003-02-02T12:24:25.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.94" s="8.17" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06474661" lon="8.44127239">
+        <ele>808.5</ele>
+        <time>2003-02-02T12:24:27.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.51" s="9.51" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06481867" lon="8.44109265">
+        <ele>806</ele>
+        <time>2003-02-02T12:24:29.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.85" s="7.78" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06479995" lon="8.44087336">
+        <ele>801.1</ele>
+        <time>2003-02-02T12:24:31.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.52" s="8.75" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0647816" lon="8.44063249">
+        <ele>797.1</ele>
+        <time>2003-02-02T12:24:33.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.69" s="8.75" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06477464" lon="8.44043936">
+        <ele>793</ele>
+        <time>2003-02-02T12:24:35.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.63" s="6.88" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06477227" lon="8.44022176">
+        <ele>785.8</ele>
+        <time>2003-02-02T12:24:37.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.7" s="8.6" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06479521" lon="8.44001132">
+        <ele>782.9</ele>
+        <time>2003-02-02T12:24:39.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.88" s="7.43" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06479416" lon="8.43986673">
+        <ele>779</ele>
+        <time>2003-02-02T12:24:41.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.64" s="4.98" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06481257" lon="8.43970215">
+        <ele>770</ele>
+        <time>2003-02-02T12:24:43.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.97" s="7.43" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06484899" lon="8.43947588">
+        <ele>764.5</ele>
+        <time>2003-02-02T12:24:45.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.94" s="8.58" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06486462" lon="8.43928858">
+        <ele>759</ele>
+        <time>2003-02-02T12:24:47.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.88" s="6.92" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06490504" lon="8.43908156">
+        <ele>751.6</ele>
+        <time>2003-02-02T12:24:49.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.03" s="8.88" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06495847" lon="8.43886255">
+        <ele>747.7</ele>
+        <time>2003-02-02T12:24:51.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.08" s="8.52" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06502476" lon="8.43869966">
+        <ele>742.5</ele>
+        <time>2003-02-02T12:24:53.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.28" s="7.2" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06509314" lon="8.43850594">
+        <ele>735.9</ele>
+        <time>2003-02-02T12:24:55.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.16" s="8.59" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06514313" lon="8.43828592">
+        <ele>731.3</ele>
+        <time>2003-02-02T12:24:57.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.02" s="8.71" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06518929" lon="8.43808015">
+        <ele>727</ele>
+        <time>2003-02-02T12:24:59.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.06" s="8.03" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06524739" lon="8.43789381">
+        <ele>721.7</ele>
+        <time>2003-02-02T12:25:01.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.19" s="7.92" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06531705" lon="8.43769589">
+        <ele>717</ele>
+        <time>2003-02-02T12:25:03.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.16" s="8.59" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06533598" lon="8.43747794">
+        <ele>713.3</ele>
+        <time>2003-02-02T12:25:05.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.7" s="8.44" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06530985" lon="8.43725626">
+        <ele>708.7</ele>
+        <time>2003-02-02T12:25:07.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.56" s="8.53" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06529462" lon="8.43702355">
+        <ele>703.8</ele>
+        <time>2003-02-02T12:25:09.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.6" s="9.07" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0652611" lon="8.4367901">
+        <ele>701.5</ele>
+        <time>2003-02-02T12:25:11.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.52" s="9" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06524578" lon="8.43655794">
+        <ele>696.7</ele>
+        <time>2003-02-02T12:25:13.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.68" s="9.01" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06524819" lon="8.43631562">
+        <ele>692.2</ele>
+        <time>2003-02-02T12:25:15.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.74" s="9.17" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06525009" lon="8.4360659">
+        <ele>687.3</ele>
+        <time>2003-02-02T12:25:17.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.73" s="9.54" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06526071" lon="8.43582708">
+        <ele>682.7</ele>
+        <time>2003-02-02T12:25:19.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.78" s="8.89" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06527976" lon="8.43559057">
+        <ele>676.7</ele>
+        <time>2003-02-02T12:25:21.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.86" s="9.14" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0653163" lon="8.43533265">
+        <ele>671.1</ele>
+        <time>2003-02-02T12:25:23.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.93" s="10.16" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06533915" lon="8.43520213">
+        <ele>668.8</ele>
+        <time>2003-02-02T12:25:24.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.97" s="10.23" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06536478" lon="8.43507457">
+        <ele>666.9</ele>
+        <time>2003-02-02T12:25:25.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.99" s="10.23" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06539096" lon="8.43494724">
+        <ele>665.3</ele>
+        <time>2003-02-02T12:25:26.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.01" s="10.19" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06545204" lon="8.43470753">
+        <ele>662.1</ele>
+        <time>2003-02-02T12:25:28.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.08" s="9.67" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0655215" lon="8.43446637">
+        <ele>658.6</ele>
+        <time>2003-02-02T12:25:30.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.12" s="10.13" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06556166" lon="8.43434692">
+        <ele>657.2</ele>
+        <time>2003-02-02T12:25:31.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.17" s="10.18" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06560375" lon="8.43422983">
+        <ele>655.9</ele>
+        <time>2003-02-02T12:25:32.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.2" s="10.04" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06568866" lon="8.43400291">
+        <ele>653.3</ele>
+        <time>2003-02-02T12:25:34.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.23" s="9.75" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06577333" lon="8.43377482">
+        <ele>650.4</ele>
+        <time>2003-02-02T12:25:36.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.2" s="9.85" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06581188" lon="8.43365527">
+        <ele>648.6</ele>
+        <time>2003-02-02T12:25:37.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.15" s="10.11" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0658817" lon="8.43342236">
+        <ele>645.7</ele>
+        <time>2003-02-02T12:25:39.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.13" s="9.48" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06594874" lon="8.43319349">
+        <ele>643.2</ele>
+        <time>2003-02-02T12:25:41.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.1" s="9.39" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06600817" lon="8.43298916">
+        <ele>641.3</ele>
+        <time>2003-02-02T12:25:43.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.14" s="8.08" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06608301" lon="8.43282358">
+        <ele>639.4</ele>
+        <time>2003-02-02T12:25:45.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.55" s="8.49" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0662026" lon="8.43268869">
+        <ele>637.1</ele>
+        <time>2003-02-02T12:25:47.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.64" s="8.51" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06633573" lon="8.43262318">
+        <ele>635.3</ele>
+        <time>2003-02-02T12:25:49.999Z</time>
+        <extensions>
+          <geotracker:meta c="6.09" s="7.41" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06646746" lon="8.43260977">
+        <ele>633.7</ele>
+        <time>2003-02-02T12:25:51.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.08" s="6.68" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06655238" lon="8.43266075">
+        <ele>630.7</ele>
+        <time>2003-02-02T12:25:53.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.96" s="5.45" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06658957" lon="8.43283922">
+        <ele>625.1</ele>
+        <time>2003-02-02T12:25:55.999Z</time>
+        <extensions>
+          <geotracker:meta c="1.34" s="6.95" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06658171" lon="8.43302642">
+        <ele>622.3</ele>
+        <time>2003-02-02T12:25:57.999Z</time>
+        <extensions>
+          <geotracker:meta c="2.38" s="7.44" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06644835" lon="8.4331512">
+        <ele>617.7</ele>
+        <time>2003-02-02T12:25:59.999Z</time>
+        <extensions>
+          <geotracker:meta c="2.81" s="8.67" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06627666" lon="8.43314204">
+        <ele>611.7</ele>
+        <time>2003-02-02T12:26:01.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.31" s="9.81" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06617883" lon="8.43309697">
+        <ele>609</ele>
+        <time>2003-02-02T12:26:02.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.51" s="10.6" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06609441" lon="8.43301965">
+        <ele>607</ele>
+        <time>2003-02-02T12:26:03.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.72" s="10.67" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06602596" lon="8.43291535">
+        <ele>605.8</ele>
+        <time>2003-02-02T12:26:04.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.95" s="10.67" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0659589" lon="8.43281386">
+        <ele>605.2</ele>
+        <time>2003-02-02T12:26:05.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.36" s="10.4" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06592809" lon="8.43257444">
+        <ele>603.7</ele>
+        <time>2003-02-02T12:26:07.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.72" s="8.62" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06598511" lon="8.4323715">
+        <ele>600</ele>
+        <time>2003-02-02T12:26:09.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.27" s="8.14" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06610833" lon="8.43225717">
+        <ele>596.8</ele>
+        <time>2003-02-02T12:26:11.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.93" s="7.83" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06623724" lon="8.43225965">
+        <ele>595.2</ele>
+        <time>2003-02-02T12:26:13.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.34" s="7.59" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06633846" lon="8.4323657">
+        <ele>593</ele>
+        <time>2003-02-02T12:26:15.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.66" s="6.47" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06644224" lon="8.43246526">
+        <ele>589</ele>
+        <time>2003-02-02T12:26:17.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.61" s="6.48" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06651974" lon="8.43262141">
+        <ele>583.6</ele>
+        <time>2003-02-02T12:26:19.999Z</time>
+        <extensions>
+          <geotracker:meta c="1.01" s="7.55" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06658149" lon="8.43280392">
+        <ele>580.1</ele>
+        <time>2003-02-02T12:26:21.999Z</time>
+        <extensions>
+          <geotracker:meta c="1.07" s="7.47" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06662665" lon="8.43296028">
+        <ele>576.5</ele>
+        <time>2003-02-02T12:26:23.999Z</time>
+        <extensions>
+          <geotracker:meta c="1.21" s="6.59" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.066668" lon="8.43316437">
+        <ele>571.6</ele>
+        <time>2003-02-02T12:26:25.999Z</time>
+        <extensions>
+          <geotracker:meta c="1.26" s="8.46" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06671325" lon="8.43335612">
+        <ele>568.4</ele>
+        <time>2003-02-02T12:26:27.999Z</time>
+        <extensions>
+          <geotracker:meta c="1.21" s="7.19" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06675036" lon="8.43353709">
+        <ele>564.3</ele>
+        <time>2003-02-02T12:26:29.999Z</time>
+        <extensions>
+          <geotracker:meta c="1.28" s="7.13" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06681628" lon="8.43373787">
+        <ele>561</ele>
+        <time>2003-02-02T12:26:31.999Z</time>
+        <extensions>
+          <geotracker:meta c="1.05" s="8.9" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0669174" lon="8.43389971">
+        <ele>560.9</ele>
+        <time>2003-02-02T12:26:33.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.82" s="7.8" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06697798" lon="8.43406308">
+        <ele>559.1</ele>
+        <time>2003-02-02T12:26:35.999Z</time>
+        <extensions>
+          <geotracker:meta c="1.13" s="7.18" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06708441" lon="8.43421388">
+        <ele>556.7</ele>
+        <time>2003-02-02T12:26:37.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.63" s="8.58" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0672076" lon="8.43431896">
+        <ele>556.1</ele>
+        <time>2003-02-02T12:26:39.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.59" s="7.5" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0673039" lon="8.4344616">
+        <ele>554</ele>
+        <time>2003-02-02T12:26:41.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.77" s="7.89" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06743145" lon="8.43458059">
+        <ele>552.7</ele>
+        <time>2003-02-02T12:26:43.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.49" s="8.44" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06753919" lon="8.43467664">
+        <ele>554.2</ele>
+        <time>2003-02-02T12:26:45.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.62" s="6.57" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06761782" lon="8.43478544">
+        <ele>553.5</ele>
+        <time>2003-02-02T12:26:47.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.76" s="6.1" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06769782" lon="8.43490164">
+        <ele>551.2</ele>
+        <time>2003-02-02T12:26:49.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.81" s="6.28" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06776079" lon="8.43505266">
+        <ele>548.1</ele>
+        <time>2003-02-02T12:26:51.999Z</time>
+        <extensions>
+          <geotracker:meta c="1.07" s="6.9" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06785009" lon="8.43518553">
+        <ele>545.1</ele>
+        <time>2003-02-02T12:26:53.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.64" s="7.11" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06797416" lon="8.43521052">
+        <ele>542.4</ele>
+        <time>2003-02-02T12:26:55.999Z</time>
+        <extensions>
+          <geotracker:meta c="6.26" s="6.83" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06807681" lon="8.43514307">
+        <ele>539.5</ele>
+        <time>2003-02-02T12:26:57.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.73" s="6.17" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06815844" lon="8.43499439">
+        <ele>538</ele>
+        <time>2003-02-02T12:26:59.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.85" s="9.5" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06815483" lon="8.43485332">
+        <ele>536</ele>
+        <time>2003-02-02T12:27:00.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.71" s="10.65" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06810664" lon="8.43472211">
+        <ele>533.4</ele>
+        <time>2003-02-02T12:27:01.999Z</time>
+        <extensions>
+          <geotracker:meta c="4.29" s="11.33" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06806406" lon="8.43457695">
+        <ele>533.1</ele>
+        <time>2003-02-02T12:27:02.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.74" s="11.58" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06797559" lon="8.43450524">
+        <ele>531.4</ele>
+        <time>2003-02-02T12:27:03.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.62" s="11.18" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06788935" lon="8.43445149">
+        <ele>530.8</ele>
+        <time>2003-02-02T12:27:04.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.52" s="10.35" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06773772" lon="8.43433909">
+        <ele>527.6</ele>
+        <time>2003-02-02T12:27:06.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.75" s="9.55" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06765143" lon="8.43426326">
+        <ele>525.5</ele>
+        <time>2003-02-02T12:27:07.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.7" s="10.76" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0675567" lon="8.43418314">
+        <ele>523.7</ele>
+        <time>2003-02-02T12:27:08.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.7" s="11.85" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06746652" lon="8.4341007">
+        <ele>522.8</ele>
+        <time>2003-02-02T12:27:09.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.72" s="11.47" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06738683" lon="8.43401827">
+        <ele>523</ele>
+        <time>2003-02-02T12:27:10.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.78" s="10.47" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06731326" lon="8.43393451">
+        <ele>522.4</ele>
+        <time>2003-02-02T12:27:11.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.82" s="10.18" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06716555" lon="8.43380632">
+        <ele>520.9</ele>
+        <time>2003-02-02T12:27:13.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.56" s="9.27" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06699611" lon="8.43384276">
+        <ele>516</ele>
+        <time>2003-02-02T12:27:15.999Z</time>
+        <extensions>
+          <geotracker:meta c="2.82" s="9.88" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06691732" lon="8.4339105">
+        <ele>514.3</ele>
+        <time>2003-02-02T12:27:16.999Z</time>
+        <extensions>
+          <geotracker:meta c="2.6" s="10.03" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06678016" lon="8.43401586">
+        <ele>513.2</ele>
+        <time>2003-02-02T12:27:18.999Z</time>
+        <extensions>
+          <geotracker:meta c="2.7" s="7.96" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06663856" lon="8.43413681">
+        <ele>509.1</ele>
+        <time>2003-02-02T12:27:20.999Z</time>
+        <extensions>
+          <geotracker:meta c="2.46" s="8.9" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06652371" lon="8.43431961">
+        <ele>506.5</ele>
+        <time>2003-02-02T12:27:22.999Z</time>
+        <extensions>
+          <geotracker:meta c="2.29" s="9.01" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06645085" lon="8.43446963">
+        <ele>505.5</ele>
+        <time>2003-02-02T12:27:24.999Z</time>
+        <extensions>
+          <geotracker:meta c="2.08" s="6.58" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06644436" lon="8.4346394">
+        <ele>502.2</ele>
+        <time>2003-02-02T12:27:26.999Z</time>
+        <extensions>
+          <geotracker:meta c="1.27" s="7.67" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06654097" lon="8.43482897">
+        <ele>501.6</ele>
+        <time>2003-02-02T12:27:28.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.09" s="10.22" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06663636" lon="8.43483659">
+        <ele>501.1</ele>
+        <time>2003-02-02T12:27:29.999Z</time>
+        <extensions>
+          <geotracker:meta c="6.07" s="10.57" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06673034" lon="8.43479843">
+        <ele>500.3</ele>
+        <time>2003-02-02T12:27:30.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.76" s="9.86" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06676732" lon="8.43467268">
+        <ele>498.6</ele>
+        <time>2003-02-02T12:27:31.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.22" s="9.12" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06680968" lon="8.43455326">
+        <ele>497.4</ele>
+        <time>2003-02-02T12:27:32.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.1" s="8.02" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0668905" lon="8.43435944">
+        <ele>494.4</ele>
+        <time>2003-02-02T12:27:34.999Z</time>
+        <extensions>
+          <geotracker:meta c="5.71" s="8.74" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06703996" lon="8.43426312">
+        <ele>491.7</ele>
+        <time>2003-02-02T12:27:36.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.31" s="8.6" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06716866" lon="8.43438671">
+        <ele>489</ele>
+        <time>2003-02-02T12:27:38.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.96" s="8.29" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06714772" lon="8.4346085">
+        <ele>487.1</ele>
+        <time>2003-02-02T12:27:40.999Z</time>
+        <extensions>
+          <geotracker:meta c="2.06" s="7.65" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06704811" lon="8.43482892">
+        <ele>482.2</ele>
+        <time>2003-02-02T12:27:42.999Z</time>
+        <extensions>
+          <geotracker:meta c="1.86" s="9.57" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06703068" lon="8.43495905">
+        <ele>480.9</ele>
+        <time>2003-02-02T12:27:43.999Z</time>
+        <extensions>
+          <geotracker:meta c="1.72" s="9.23" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06705126" lon="8.43516139">
+        <ele>479.8</ele>
+        <time>2003-02-02T12:27:45.999Z</time>
+        <extensions>
+          <geotracker:meta c="1.41" s="7" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06711818" lon="8.43530122">
+        <ele>475.9</ele>
+        <time>2003-02-02T12:27:47.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.82" s="6.72" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06724637" lon="8.4354174">
+        <ele>473.2</ele>
+        <time>2003-02-02T12:27:49.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.54" s="8.29" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06734925" lon="8.43547208">
+        <ele>471.1</ele>
+        <time>2003-02-02T12:27:51.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.23" s="5.28" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06745631" lon="8.43546187">
+        <ele>470.3</ele>
+        <time>2003-02-02T12:27:54.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.46" s="2.05" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.0675325" lon="8.43554156">
+        <ele>470.5</ele>
+        <time>2003-02-02T12:27:58.999Z</time>
+        <extensions>
+          <geotracker:meta c="0.79" s="1.54" />
+        </extensions>
+      </trkpt>
+      <trkpt lat="47.06759566" lon="8.43559957">
+        <ele>470.6</ele>
+        <time>2003-02-02T12:29:59.999Z</time>
+        <extensions>
+          <geotracker:meta c="3.42" s="0" />
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
